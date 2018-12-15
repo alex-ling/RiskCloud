@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">风险云</string>
+
+    <string name="welcome_text">风险与应急管理智能云</string>
+    <string name="company_text">北京久云科技</string>
+    <string name="more">更多</string>
+
+
+    <string name="camera_confirm">开启相机权限</string>
+    <string name="camera_granted">未开始相机权限</string>
+    <string name="picture_taken">Picture taken</string>
+    <string name="aspect_ratio">Aspect ratio</string>
+    <string name="switch_flash">Switch flash</string>
+    <string name="switch_camera">Switch camera</string>
+    <string name="flash_auto">Flash auto</string>
+    <string name="flash_off">Flash off</string>
+    <string name="flash_on">Flash on</string>
+
+    <string name="settings">设置</string>
+    <string name="help">提示</string>
+    <string name="string_help_text">当前应用缺少必要权限。\n请点击“设置—>权限”打开所需权限。\n最后点击两次后退按钮，即可返回。</string>
+    <string name="quit">退出</string>
+</resources>

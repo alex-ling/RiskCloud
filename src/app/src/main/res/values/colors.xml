@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#555</color>
+    <color name="colorPrimaryDark">#333</color>
+    <color name="colorAccent">#ff4081</color>
+
+    <color name="title_back">#555</color>
+    <color name="title_text">#ffffff</color>
+
+    <color name="clr_input">#00000000</color>
+    <color name="clr_border">#818181</color>
+    <color name="clr_back">#0093fe</color>
+    <color name="clr_text">#ffffff</color>
+    <color name="clr_loading">#818181</color>
+
+    <color name="clr_fff">#fff</color>
+    <color name="clr_primary">#337ab7</color>
+    <color name="clr_success">#5cb85c</color>
+    <color name="clr_info">#5bc0de</color>
+    <color name="clr_warning">#f0ad4e</color>
+    <color name="clr_danger">#d9534f</color>
+    <color name="clr_gray_3">#333</color>
+    <color name="clr_gray_5">#555</color>
+    <color name="clr_gray_7">#777</color>
+    <color name="clr_gray_a">#aaa</color>
+    <color name="clr_gray_c">#ccc</color>
+    <color name="clr_gray_d">#ddd</color>
+    <color name="clr_gray_e">#eee</color>
+</resources>

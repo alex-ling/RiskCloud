@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="border">#cccccc</color>
+    <color name="clr_sheet_text">#0000FF</color>
+
+    <color name="clr_fff">#ffffff</color>
+    <color name="clr_updater_text">#009790</color>
+    <color name="clr_updater_back">#ccc</color>
+    <color name="clr_updater_cancel">#818181</color>
+</resources>

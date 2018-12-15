@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="App_Attrs">
+        <!-- 默认背景颜色 -->
+        <attr name="baseBackColor" format="color|reference"/>
+    </declare-styleable>
+</resources>
